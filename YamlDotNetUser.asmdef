@@ -1,6 +1,5 @@
 {
     "name": "YamlDotNetUser",
-    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -9,7 +8,7 @@
     "precompiledReferences": [
         "YamlDotNet.dll"
     ],
-    "autoReferenced": true,
+    "autoReferenced": false,
     "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": true
