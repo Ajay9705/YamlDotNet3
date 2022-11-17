@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Sdk="Microsoft.NET.Sdk">
+  <!--DO NOT TOUCH THIS FILE!
+It was generated automatically by the asmdef-to-csproj utility.-->
+  <PropertyGroup>
+    <TargetFramework />
+    <LangVersion>0</LangVersion>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../YamlDotNetUser.csproj" />
+  </ItemGroup>
+</Project>
