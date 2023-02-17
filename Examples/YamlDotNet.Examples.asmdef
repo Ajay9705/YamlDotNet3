@@ -1,7 +1,7 @@
 {
     "name": "YamlDotNet.Examples",
     "references": [
-        "guid:b3f49edfedc855a48aa1a9e5d3cba438"
+        "YamlDotNetUser"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
