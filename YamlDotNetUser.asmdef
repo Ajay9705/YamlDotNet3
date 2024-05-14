@@ -7,7 +7,9 @@
     "overrideReferences": true,
     "precompiledReferences": [],
     "autoReferenced": false,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "!READY_EXTERNAL_YAMLDOTNET"
+    ],
     "versionDefines": [],
     "noEngineReferences": true
 }
