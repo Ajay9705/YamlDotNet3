@@ -21,16 +21,16 @@
 
 using System;
 using System.Collections.Generic;
-using YamlDotNet.Core;
-using YamlDotNet.Serialization.Converters;
-using YamlDotNet.Serialization.EventEmitters;
-using YamlDotNet.Serialization.NamingConventions;
-using YamlDotNet.Serialization.ObjectGraphTraversalStrategies;
-using YamlDotNet.Serialization.ObjectGraphVisitors;
-using YamlDotNet.Serialization.TypeInspectors;
-using YamlDotNet.Serialization.TypeResolvers;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Serialization.Converters;
+using YamlDotNetFork.Serialization.EventEmitters;
+using YamlDotNetFork.Serialization.NamingConventions;
+using YamlDotNetFork.Serialization.ObjectGraphTraversalStrategies;
+using YamlDotNetFork.Serialization.ObjectGraphVisitors;
+using YamlDotNetFork.Serialization.TypeInspectors;
+using YamlDotNetFork.Serialization.TypeResolvers;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     /// <summary>
     /// Creates and configures instances of <see cref="Serializer" />.

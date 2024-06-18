@@ -20,9 +20,9 @@
 // THE SOFTWARE.
 
 using System;
-using YamlDotNet.Core.Events;
+using YamlDotNetFork.Core.Events;
 
-namespace YamlDotNet.Serialization.NodeTypeResolvers
+namespace YamlDotNetFork.Serialization.NodeTypeResolvers
 {
     [Obsolete("The mechanism that this class uses to specify type names is non-standard. Register the tags explicitly instead of using this convention.")]
     public sealed class TypeNameInTagNodeTypeResolver : INodeTypeResolver

@@ -21,11 +21,11 @@
 
 using System;
 using System.Linq;
-using YamlDotNet.Core;
-using YamlDotNet.Core.Events;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Core.Events;
 using System.Collections.Generic;
 
-namespace YamlDotNet.RepresentationModel
+namespace YamlDotNetFork.RepresentationModel
 {
     /// <summary>
     /// Represents a single node in the YAML document.

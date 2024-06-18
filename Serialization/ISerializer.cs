@@ -1,8 +1,8 @@
 using System;
 using System.IO;
-using YamlDotNet.Core;
+using YamlDotNetFork.Core;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     public interface ISerializer
     {

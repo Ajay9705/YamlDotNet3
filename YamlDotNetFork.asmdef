@@ -1,5 +1,6 @@
 {
-    "name": "YamlDotNetUser",
+    "name": "YamlDotNetFork",
+    "rootNamespace": "YamlDotNetFork",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -7,9 +8,7 @@
     "overrideReferences": true,
     "precompiledReferences": [],
     "autoReferenced": false,
-    "defineConstraints": [
-        "!READY_EXTERNAL_YAMLDOTNET"
-    ],
+    "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": true
 }

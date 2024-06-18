@@ -21,7 +21,7 @@
 
 using System;
 
-namespace YamlDotNet.Core.Tokens
+namespace YamlDotNetFork.Core.Tokens
 {
     /// <summary>
     /// Represents a value token.

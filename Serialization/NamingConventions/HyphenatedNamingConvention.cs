@@ -19,9 +19,9 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 //  SOFTWARE.
 
-using YamlDotNet.Serialization.Utilities;
+using YamlDotNetFork.Serialization.Utilities;
 
-namespace YamlDotNet.Serialization.NamingConventions
+namespace YamlDotNetFork.Serialization.NamingConventions
 {
     /// <summary>
     /// Convert the string from camelcase (thisIsATest) to a hyphenated (this-is-a-test) string

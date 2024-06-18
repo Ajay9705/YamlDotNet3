@@ -20,10 +20,10 @@
 // THE SOFTWARE.
 
 using System;
-using YamlDotNet.Core;
-using YamlDotNet.Serialization.Utilities;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Serialization.Utilities;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     public interface IValueDeserializer
     {

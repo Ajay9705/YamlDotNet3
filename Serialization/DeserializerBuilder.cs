@@ -21,14 +21,14 @@
 
 using System;
 using System.Collections.Generic;
-using YamlDotNet.Serialization.NodeDeserializers;
-using YamlDotNet.Serialization.NodeTypeResolvers;
-using YamlDotNet.Serialization.ObjectFactories;
-using YamlDotNet.Serialization.TypeInspectors;
-using YamlDotNet.Serialization.TypeResolvers;
-using YamlDotNet.Serialization.ValueDeserializers;
+using YamlDotNetFork.Serialization.NodeDeserializers;
+using YamlDotNetFork.Serialization.NodeTypeResolvers;
+using YamlDotNetFork.Serialization.ObjectFactories;
+using YamlDotNetFork.Serialization.TypeInspectors;
+using YamlDotNetFork.Serialization.TypeResolvers;
+using YamlDotNetFork.Serialization.ValueDeserializers;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     /// <summary>
     /// Creates and configures instances of <see cref="Deserializer" />.

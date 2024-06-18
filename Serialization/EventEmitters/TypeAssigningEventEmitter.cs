@@ -22,9 +22,9 @@
 using System;
 using System.Collections.Generic;
 using System.Globalization;
-using YamlDotNet.Core;
+using YamlDotNetFork.Core;
 
-namespace YamlDotNet.Serialization.EventEmitters
+namespace YamlDotNetFork.Serialization.EventEmitters
 {
     public sealed class TypeAssigningEventEmitter : ChainedEventEmitter
     {

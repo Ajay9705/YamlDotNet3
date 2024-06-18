@@ -1,4 +1,4 @@
-﻿namespace YamlDotNet.Samples.Helpers
+﻿namespace YamlDotNetFork.Samples.Helpers
 {
     /// <summary>
     /// Marks a test as being a code sample.

@@ -21,9 +21,9 @@
 
 using System.Globalization;
 using System.IO;
-using YamlDotNet.Core.Events;
+using YamlDotNetFork.Core.Events;
 
-namespace YamlDotNet.Core
+namespace YamlDotNetFork.Core
 {
     /// <summary>
     /// Extension methods that provide useful abstractions over <see cref="IParser"/>.

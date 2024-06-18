@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using YamlDotNet.Serialization;
-using YamlDotNet.Serialization.NamingConventions;
-using YamlDotNet.Samples.Helpers;
+using YamlDotNetFork.Serialization;
+using YamlDotNetFork.Serialization.NamingConventions;
+using YamlDotNetFork.Samples.Helpers;
 
-namespace YamlDotNet.Samples
+namespace YamlDotNetFork.Samples
 {
     public class DeserializeObjectGraph
     {

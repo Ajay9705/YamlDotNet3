@@ -23,7 +23,7 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 
-namespace YamlDotNet.Serialization.ObjectGraphVisitors
+namespace YamlDotNetFork.Serialization.ObjectGraphVisitors
 {
     public sealed class AnchorAssigner : PreProcessingPhaseObjectGraphVisitorSkeleton, IAliasProvider
     {

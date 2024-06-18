@@ -10,7 +10,7 @@ using UnityEngine.Serialization;
 using UnityEditor;
 #endif
 
-namespace YamlDotNet.Samples.Helpers {
+namespace YamlDotNetFork.Samples.Helpers {
     public class ExampleRunner : MonoBehaviour {
 
         private StringTestOutputHelper helper = new StringTestOutputHelper();

@@ -24,7 +24,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 
-namespace YamlDotNet.Serialization.ObjectGraphTraversalStrategies
+namespace YamlDotNetFork.Serialization.ObjectGraphTraversalStrategies
 {
     /// <summary>
     /// An implementation of <see cref="IObjectGraphTraversalStrategy"/> that traverses

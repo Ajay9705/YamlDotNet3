@@ -22,10 +22,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
-using YamlDotNet.Serialization.Converters;
-using YamlDotNet.Serialization.TypeInspectors;
+using YamlDotNetFork.Serialization.Converters;
+using YamlDotNetFork.Serialization.TypeInspectors;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     /// <summary>
     /// Common implementation of <see cref="SerializerBuilder" /> and <see cref="DeserializerBuilder" />.

@@ -4,7 +4,7 @@ using System;
 using System.Reflection;
 using System.Linq.Expressions;
 
-namespace YamlDotNet.Helpers
+namespace YamlDotNetFork.Helpers
 {
     public static class ExpressionExtensions
     {

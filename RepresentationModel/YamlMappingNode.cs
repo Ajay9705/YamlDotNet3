@@ -24,11 +24,11 @@ using System;
 using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
-using YamlDotNet.Core;
-using YamlDotNet.Core.Events;
-using YamlDotNet.Serialization;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Core.Events;
+using YamlDotNetFork.Serialization;
 
-namespace YamlDotNet.RepresentationModel
+namespace YamlDotNetFork.RepresentationModel
 {
     /// <summary>
     /// Represents a mapping node in the YAML document.

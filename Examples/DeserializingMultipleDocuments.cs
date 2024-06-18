@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.IO;
-using YamlDotNet.Core;
-using YamlDotNet.Core.Events;
-using YamlDotNet.Serialization;
-using YamlDotNet.Samples.Helpers;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Core.Events;
+using YamlDotNetFork.Serialization;
+using YamlDotNetFork.Samples.Helpers;
 
-namespace YamlDotNet.Samples
+namespace YamlDotNetFork.Samples
 {
     public class DeserializingMultipleDocuments
     {

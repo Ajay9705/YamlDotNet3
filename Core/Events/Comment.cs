@@ -22,7 +22,7 @@
 
 using System.Globalization;
 
-namespace YamlDotNet.Core.Events
+namespace YamlDotNetFork.Core.Events
 {
     public class Comment : ParsingEvent
     {

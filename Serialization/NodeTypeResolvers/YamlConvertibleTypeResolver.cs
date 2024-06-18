@@ -20,9 +20,9 @@
 // THE SOFTWARE.
 
 using System;
-using YamlDotNet.Core.Events;
+using YamlDotNetFork.Core.Events;
 
-namespace YamlDotNet.Serialization.NodeTypeResolvers
+namespace YamlDotNetFork.Serialization.NodeTypeResolvers
 {
     public sealed class YamlConvertibleTypeResolver : INodeTypeResolver
     {

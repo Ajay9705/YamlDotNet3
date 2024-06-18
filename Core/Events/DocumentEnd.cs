@@ -21,7 +21,7 @@
 
 using System.Globalization;
 
-namespace YamlDotNet.Core.Events
+namespace YamlDotNetFork.Core.Events
 {
     /// <summary>
     /// Represents a document end event.
