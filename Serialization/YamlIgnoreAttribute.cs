@@ -21,7 +21,7 @@
 
 using System;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     /// <summary>
     /// Instructs the YamlSerializer not to serialize the public field or public read/write property value.

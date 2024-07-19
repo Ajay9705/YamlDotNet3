@@ -22,19 +22,19 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using YamlDotNet.Core;
-using YamlDotNet.Core.Events;
-using YamlDotNet.Serialization.Converters;
-using YamlDotNet.Serialization.NamingConventions;
-using YamlDotNet.Serialization.NodeDeserializers;
-using YamlDotNet.Serialization.NodeTypeResolvers;
-using YamlDotNet.Serialization.ObjectFactories;
-using YamlDotNet.Serialization.TypeInspectors;
-using YamlDotNet.Serialization.TypeResolvers;
-using YamlDotNet.Serialization.Utilities;
-using YamlDotNet.Serialization.ValueDeserializers;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Core.Events;
+using YamlDotNetFork.Serialization.Converters;
+using YamlDotNetFork.Serialization.NamingConventions;
+using YamlDotNetFork.Serialization.NodeDeserializers;
+using YamlDotNetFork.Serialization.NodeTypeResolvers;
+using YamlDotNetFork.Serialization.ObjectFactories;
+using YamlDotNetFork.Serialization.TypeInspectors;
+using YamlDotNetFork.Serialization.TypeResolvers;
+using YamlDotNetFork.Serialization.Utilities;
+using YamlDotNetFork.Serialization.ValueDeserializers;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     /// <summary>
     /// Deserializes objects from the YAML format.

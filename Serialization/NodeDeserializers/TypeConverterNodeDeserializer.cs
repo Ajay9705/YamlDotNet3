@@ -22,9 +22,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using YamlDotNet.Core;
+using YamlDotNetFork.Core;
 
-namespace YamlDotNet.Serialization.NodeDeserializers
+namespace YamlDotNetFork.Serialization.NodeDeserializers
 {
     public sealed class TypeConverterNodeDeserializer : INodeDeserializer
     {

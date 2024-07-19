@@ -21,7 +21,7 @@
 
 using System;
 
-namespace YamlDotNet.Core
+namespace YamlDotNetFork.Core
 {
     internal interface ILookAheadBuffer
     {

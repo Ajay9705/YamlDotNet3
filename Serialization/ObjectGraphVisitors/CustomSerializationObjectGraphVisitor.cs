@@ -21,9 +21,9 @@
 
 using System.Collections.Generic;
 using System.Linq;
-using YamlDotNet.Core;
+using YamlDotNetFork.Core;
 
-namespace YamlDotNet.Serialization.ObjectGraphVisitors
+namespace YamlDotNetFork.Serialization.ObjectGraphVisitors
 {
     public sealed class CustomSerializationObjectGraphVisitor : ChainedObjectGraphVisitor
     {

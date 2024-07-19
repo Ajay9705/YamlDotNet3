@@ -1,4 +1,4 @@
-namespace YamlDotNet.Samples.Helpers
+namespace YamlDotNetFork.Samples.Helpers
 {
     public interface ITestOutputHelper {
         void WriteLine();

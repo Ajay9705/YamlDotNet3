@@ -21,7 +21,7 @@
 
 using System;
 
-namespace YamlDotNet.Core
+namespace YamlDotNetFork.Core
 {
     /// <summary>
     /// Keeps track of the <see cref="current"/> recursion level,

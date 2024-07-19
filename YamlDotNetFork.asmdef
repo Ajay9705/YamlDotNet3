@@ -1,5 +1,6 @@
 {
-    "name": "YamlDotNetUser",
+    "name": "YamlDotNetFork",
+    "rootNamespace": "YamlDotNetFork",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

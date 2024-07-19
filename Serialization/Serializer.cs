@@ -21,10 +21,10 @@
 
 using System;
 using System.IO;
-using YamlDotNet.Core;
-using YamlDotNet.Core.Events;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Core.Events;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     public sealed class Serializer : ISerializer
     {

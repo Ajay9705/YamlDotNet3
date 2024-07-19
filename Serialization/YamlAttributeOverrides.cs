@@ -23,12 +23,12 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using YamlDotNet.Core;
-using YamlDotNet.Helpers;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Helpers;
 using System.Linq.Expressions;
-using HashCode = YamlDotNet.Core.HashCode;
+using HashCode = YamlDotNetFork.Core.HashCode;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     /// <summary>
     /// Define a collection of YamlAttribute Overrides for pre-defined object types.
@@ -170,7 +170,7 @@ namespace YamlDotNet.Serialization
         /// </summary>
         public void Add<TClass>(Expression<Func<TClass, object>> propertyAccessor, Attribute attribute)
         {
-            var property = YamlDotNet.Helpers.ExpressionExtensions.AsProperty(propertyAccessor);
+            var property = YamlDotNetFork.Helpers.ExpressionExtensions.AsProperty(propertyAccessor);
             Add(typeof(TClass), property.Name, attribute);
         }
 #endif

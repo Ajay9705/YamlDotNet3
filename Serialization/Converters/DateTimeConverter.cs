@@ -23,10 +23,10 @@ using System;
 using System.Globalization;
 using System.Linq;
 
-using YamlDotNet.Core;
-using YamlDotNet.Core.Events;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Core.Events;
 
-namespace YamlDotNet.Serialization.Converters
+namespace YamlDotNetFork.Serialization.Converters
 {
     /// <summary>
     /// This represents the YAML converter entity for <see cref="DateTime"/>.

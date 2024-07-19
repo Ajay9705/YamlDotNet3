@@ -21,7 +21,7 @@
 
 using System;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     /// <summary>
     /// Resolves the type of values.

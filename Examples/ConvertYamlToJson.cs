@@ -1,8 +1,8 @@
 ﻿using System.IO;
-using YamlDotNet.Serialization;
-using YamlDotNet.Samples.Helpers;
+using YamlDotNetFork.Serialization;
+using YamlDotNetFork.Samples.Helpers;
 
-namespace YamlDotNet.Samples
+namespace YamlDotNetFork.Samples
 {
     public class ConvertYamlToJson
     {

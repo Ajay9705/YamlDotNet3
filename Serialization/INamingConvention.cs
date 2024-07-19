@@ -20,7 +20,7 @@
 //  SOFTWARE.
 
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     /// <summary>
     /// Translates property names according to a specific convention.

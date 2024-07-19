@@ -20,9 +20,9 @@
 //  SOFTWARE.
 
 using System;
-using YamlDotNet.Core;
+using YamlDotNetFork.Core;
 
-namespace YamlDotNet.Serialization.EventEmitters
+namespace YamlDotNetFork.Serialization.EventEmitters
 {
     /// <summary>
     /// Provided the base implementation for an IEventEmitter that is a

@@ -23,7 +23,7 @@ using System;
 using System.Diagnostics;
 using System.Linq;
 
-namespace YamlDotNet.Core
+namespace YamlDotNetFork.Core
 {
     [Serializable]
     internal class CharacterAnalyzer<TBuffer> where TBuffer : ILookAheadBuffer

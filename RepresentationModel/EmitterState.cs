@@ -21,7 +21,7 @@
 
 using System.Collections.Generic;
 
-namespace YamlDotNet.RepresentationModel
+namespace YamlDotNetFork.RepresentationModel
 {
     /// <summary>
     /// Holds state that is used when emitting a stream.

@@ -21,7 +21,7 @@
 
 using System;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     /// <summary>
     /// Options that control the serialization process.

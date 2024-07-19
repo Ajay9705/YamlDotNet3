@@ -24,7 +24,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     internal sealed class LazyComponentRegistrationList<TArgument, TComponent> : IEnumerable<Func<TArgument, TComponent>>
     {

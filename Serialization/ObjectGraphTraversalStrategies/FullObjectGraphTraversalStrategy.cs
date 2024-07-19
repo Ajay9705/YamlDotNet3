@@ -25,11 +25,11 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text;
-using YamlDotNet.Core;
-using YamlDotNet.Helpers;
-using YamlDotNet.Serialization.Utilities;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Helpers;
+using YamlDotNetFork.Serialization.Utilities;
 
-namespace YamlDotNet.Serialization.ObjectGraphTraversalStrategies
+namespace YamlDotNetFork.Serialization.ObjectGraphTraversalStrategies
 {
     /// <summary>
     /// An implementation of <see cref="IObjectGraphTraversalStrategy"/> that traverses

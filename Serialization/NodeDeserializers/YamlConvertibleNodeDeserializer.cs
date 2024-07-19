@@ -20,9 +20,9 @@
 // THE SOFTWARE.
 
 using System;
-using YamlDotNet.Core;
+using YamlDotNetFork.Core;
 
-namespace YamlDotNet.Serialization.NodeDeserializers
+namespace YamlDotNetFork.Serialization.NodeDeserializers
 {
     public sealed class YamlConvertibleNodeDeserializer : INodeDeserializer
     {

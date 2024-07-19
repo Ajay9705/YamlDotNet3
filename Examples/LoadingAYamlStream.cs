@@ -1,8 +1,8 @@
 ﻿using System.IO;
-using YamlDotNet.RepresentationModel;
-using YamlDotNet.Samples.Helpers;
+using YamlDotNetFork.RepresentationModel;
+using YamlDotNetFork.Samples.Helpers;
 
-namespace YamlDotNet.Samples
+namespace YamlDotNetFork.Samples
 {
     public class LoadingAYamlStream
     {

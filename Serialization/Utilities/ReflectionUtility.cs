@@ -22,7 +22,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace YamlDotNet.Serialization.Utilities
+namespace YamlDotNetFork.Serialization.Utilities
 {
     internal static class ReflectionUtility
     {

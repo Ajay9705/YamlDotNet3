@@ -27,7 +27,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text.RegularExpressions;
 
-namespace YamlDotNet
+namespace YamlDotNetFork
 {
 #if (NETSTANDARD1_3 || UNITY)
     internal static class StandardRegexOptions
@@ -415,7 +415,7 @@ namespace System.Runtime.CompilerServices
     internal sealed class ExtensionAttribute : Attribute { }
 }
 
-namespace YamlDotNet // To allow these to be public without clashing with the standard ones on platforms > 2.0
+namespace YamlDotNetFork // To allow these to be public without clashing with the standard ones on platforms > 2.0
 {
     public delegate TResult Func<TArg, TResult>(TArg arg);
     public delegate TResult Func<TArg1, TArg2, TResult>(TArg1 arg1, TArg2 arg2);
@@ -430,7 +430,7 @@ namespace System.Linq.Expressions
 
 namespace System.Linq
 {
-    using YamlDotNet;
+    using YamlDotNetFork;
 
     internal static class Enumerable
     {

@@ -22,10 +22,10 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using YamlDotNet.Core;
-using YamlDotNet.Serialization.Utilities;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Serialization.Utilities;
 
-namespace YamlDotNet.Serialization.NodeDeserializers
+namespace YamlDotNetFork.Serialization.NodeDeserializers
 {
     public sealed class EnumerableNodeDeserializer : INodeDeserializer
     {

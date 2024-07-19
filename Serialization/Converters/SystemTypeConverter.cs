@@ -1,8 +1,8 @@
 ﻿using System;
-using YamlDotNet.Core;
-using YamlDotNet.Core.Events;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Core.Events;
 
-namespace YamlDotNet.Serialization.Converters
+namespace YamlDotNetFork.Serialization.Converters
 {
     /// <summary>
     /// Converter for System.Type.

@@ -21,9 +21,9 @@
 
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using YamlDotNet.Core.Tokens;
+using YamlDotNetFork.Core.Tokens;
 
-namespace YamlDotNet.Core
+namespace YamlDotNetFork.Core
 {
     /// <summary>
     /// Collection of <see cref="TagDirective"/>.

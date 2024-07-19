@@ -23,9 +23,9 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using YamlDotNet.Core.Events;
+using YamlDotNetFork.Core.Events;
 
-namespace YamlDotNet.Core
+namespace YamlDotNetFork.Core
 {
     /// <summary>
     /// Simple implementation of <see cref="IParser"/> that implements merging: http://yaml.org/type/merge.html

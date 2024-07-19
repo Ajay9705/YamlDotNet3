@@ -21,7 +21,7 @@
 
 using System;
 
-namespace YamlDotNet.Core
+namespace YamlDotNetFork.Core
 {
     /// <summary>
     /// The exception that is thrown when an alias references an anchor

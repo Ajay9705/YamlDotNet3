@@ -22,10 +22,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using YamlDotNet.Core;
-using YamlDotNet.Serialization.TypeInspectors;
+using YamlDotNetFork.Core;
+using YamlDotNetFork.Serialization.TypeInspectors;
 
-namespace YamlDotNet.Serialization
+namespace YamlDotNetFork.Serialization
 {
     /// <summary>
     /// Applies the Yaml attribute overrides to another <see cref="ITypeInspector"/>.

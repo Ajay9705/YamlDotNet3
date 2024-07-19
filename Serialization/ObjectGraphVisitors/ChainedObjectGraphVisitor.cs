@@ -20,9 +20,9 @@
 //  SOFTWARE.
 
 using System;
-using YamlDotNet.Core;
+using YamlDotNetFork.Core;
 
-namespace YamlDotNet.Serialization.ObjectGraphVisitors
+namespace YamlDotNetFork.Serialization.ObjectGraphVisitors
 {
     public abstract class ChainedObjectGraphVisitor : IObjectGraphVisitor<IEmitter>
     {

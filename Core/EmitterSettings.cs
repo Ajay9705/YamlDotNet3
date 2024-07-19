@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace YamlDotNet.Core
+namespace YamlDotNetFork.Core
 {
     public sealed class EmitterSettings
     {

@@ -1,7 +1,7 @@
 {
-    "name": "YamlDotNet.Examples",
+    "name": "YamlDotNetFork.Examples",
     "references": [
-        "YamlDotNetUser"
+        "YamlDotNetFork"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -11,5 +11,5 @@
     "autoReferenced": false,
     "defineConstraints": [],
     "versionDefines": [],
-    "noEngineReferences": false
+    "noEngineReferences": true
 }
